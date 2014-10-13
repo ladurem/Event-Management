@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://projet-wildladuremaillard.googlecode.com/svn"
+   revision="39"
+   last-author="zebulogaz@gmail.com"
+   uuid="e3b53000-8798-b663-f187-c3ba8f255d80"
+   url="https://projet-wildladuremaillard.googlecode.com/svn/trunk/PG220/src/cli"
+   committed-rev="39"
+   kind="dir"
+   committed-date="2014-01-11T06:28:46.859755Z"/>
+<entry
+   name="Client.java"
+   checksum="0bc639d50ab42bf89bb3936cd3f8480c"
+   last-author="zebulogaz@gmail.com"
+   text-time="2014-01-11T06:22:30.000000Z"
+   committed-rev="39"
+   kind="file"
+   committed-date="2014-01-11T06:28:46.859000Z"/>
+<entry
+   name="Concert.java"
+   checksum="d084553175ac010b1125986afc95f7ba"
+   last-author="zebulogaz@gmail.com"
+   text-time="2014-01-09T16:12:08.000000Z"
+   committed-rev="37"
+   kind="file"
+   committed-date="2014-01-10T00:19:00.992000Z"/>
+<entry
+   name="Evenement.java"
+   checksum="ecbea68cfd1a8bee00067c4f5b0f90ba"
+   last-author="zebulogaz@gmail.com"
+   committed-rev="39"
+   text-time="2014-01-11T06:22:49.000000Z"
+   kind="file"
+   committed-date="2014-01-11T06:28:46.859000Z"/>
+<entry
+   name="Hockey.java"
+   checksum="80693813c1442a87fb36c9a9c1443ff0"
+   last-author="zebulogaz@gmail.com"
+   text-time="2014-01-11T06:22:53.000000Z"
+   committed-rev="39"
+   kind="file"
+   committed-date="2014-01-11T06:28:46.859000Z"/>
+<entry
+   name="Importer.java"
+   revision="40"
+   checksum="a626e2b53353fb51db74711472320425"
+   last-author="zebulogaz@gmail.com"
+   text-time="2014-01-12T22:02:27.000000Z"
+   committed-rev="40"
+   kind="file"
+   committed-date="2014-01-13T13:32:21.940000Z"/>
+<entry
+   name="Manifestation.java"
+   revision="41"
+   checksum="791f03982153844fc31c0d5455b0303d"
+   last-author="zebulogaz@gmail.com"
+   text-time="2014-01-13T13:39:22.000000Z"
+   committed-rev="41"
+   kind="file"
+   committed-date="2014-01-13T13:47:15.165000Z"/>
+<entry
+   name="PM.java"
+   revision="40"
+   checksum="4ddd643dde03b54c3628b8e416248195"
+   last-author="zebulogaz@gmail.com"
+   committed-rev="40"
+   text-time="2014-01-12T22:00:35.000000Z"
+   kind="file"
+   committed-date="2014-01-13T13:32:21.940000Z"/>
+<entry
+   name="Patinage.java"
+   checksum="ebc6f0c2deed03f83b5f51a0a18c54ca"
+   last-author="zebulogaz@gmail.com"
+   text-time="2014-01-11T06:23:45.000000Z"
+   committed-rev="39"
+   kind="file"
+   committed-date="2014-01-11T06:28:46.859000Z"/>
+<entry
+   name="Rapporter.java"
+   revision="42"
+   checksum="62bbdf7807f4059a12f042039add7812"
+   last-author="zebulogaz@gmail.com"
+   text-time="2014-01-13T14:03:38.000000Z"
+   committed-rev="42"
+   kind="file"
+   committed-date="2014-01-13T14:04:37.396000Z"/>
+<entry
+   name="Resa.java"
+   checksum="4e729742b1fe70701e100066b57d5934"
+   last-author="zebulogaz@gmail.com"
+   text-time="2014-01-11T06:23:52.000000Z"
+   committed-rev="39"
+   kind="file"
+   committed-date="2014-01-11T06:28:46.859000Z"/>
+<entry
+   name="Reserver.java"
+   revision="40"
+   checksum="d6c1c7a6182a2c625463466a9618135d"
+   last-author="zebulogaz@gmail.com"
+   text-time="2014-01-12T21:59:16.000000Z"
+   committed-rev="40"
+   kind="file"
+   committed-date="2014-01-13T13:32:21.940000Z"/>
+</wc-entries>

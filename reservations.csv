@@ -1,0 +1,15 @@
+Ref_evt;Ref_client;Nom;Prenom;Age;Reduction
+11;1;Robert;Martin;18;0
+11;1;Robert;Martin;28;-10%
+11;1;Robert;Martin;46;0
+20;1;Robert;Martin;18;0
+20;1;Robert;Martin;28;0
+20;1;Robert;Martin;39;0
+20;1;Robert;Martin;46;0
+20;1;Robert;Martin;48;0
+20;1;Robert;Martin;50;0
+11;1;Robert;Martin;45;0
+11;2;John;Doe;20;-20%
+31;3;Alice;Legrand;0;0
+10;3;Alice;Legrand;0;0
+11;3;Alice;Legrand;0;0
